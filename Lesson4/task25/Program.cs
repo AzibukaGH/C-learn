@@ -6,9 +6,13 @@ int num = int.Parse(Console.ReadLine());
 Console.WriteLine("Print level: ");
 int level = int.Parse(Console.ReadLine());
 
-double degree (int n, int l) {
-
-     return Math.Pow(n,l);
+int degree (int n, int l) {
+     int k = n;
+     while (l>1){
+          n = n*k;
+          l--;
+     }
+     return n;
 }
 Console.Write(degree(num, level));
 
