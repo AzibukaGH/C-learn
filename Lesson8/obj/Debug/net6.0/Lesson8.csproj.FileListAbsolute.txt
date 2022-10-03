@@ -1,0 +1,15 @@
+A:\learnig\geekBrains\csharp\Lesson8\obj\Debug\net6.0\Lesson8.csproj.AssemblyReference.cache
+A:\learnig\geekBrains\csharp\Lesson8\obj\Debug\net6.0\Lesson8.GeneratedMSBuildEditorConfig.editorconfig
+A:\learnig\geekBrains\csharp\Lesson8\obj\Debug\net6.0\Lesson8.AssemblyInfoInputs.cache
+A:\learnig\geekBrains\csharp\Lesson8\obj\Debug\net6.0\Lesson8.AssemblyInfo.cs
+A:\learnig\geekBrains\csharp\Lesson8\obj\Debug\net6.0\Lesson8.csproj.CoreCompileInputs.cache
+A:\learnig\geekBrains\csharp\Lesson8\bin\Debug\net6.0\Lesson8.exe
+A:\learnig\geekBrains\csharp\Lesson8\bin\Debug\net6.0\Lesson8.deps.json
+A:\learnig\geekBrains\csharp\Lesson8\bin\Debug\net6.0\Lesson8.runtimeconfig.json
+A:\learnig\geekBrains\csharp\Lesson8\bin\Debug\net6.0\Lesson8.dll
+A:\learnig\geekBrains\csharp\Lesson8\bin\Debug\net6.0\Lesson8.pdb
+A:\learnig\geekBrains\csharp\Lesson8\obj\Debug\net6.0\Lesson8.dll
+A:\learnig\geekBrains\csharp\Lesson8\obj\Debug\net6.0\refint\Lesson8.dll
+A:\learnig\geekBrains\csharp\Lesson8\obj\Debug\net6.0\Lesson8.pdb
+A:\learnig\geekBrains\csharp\Lesson8\obj\Debug\net6.0\Lesson8.genruntimeconfig.cache
+A:\learnig\geekBrains\csharp\Lesson8\obj\Debug\net6.0\ref\Lesson8.dll
